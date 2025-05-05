@@ -11,7 +11,6 @@ public class BlogSite {
     private Long id;
     private String title;
     private String content;
-    private boolean read;
 
     public BlogSite() {
     }
